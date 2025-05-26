@@ -8,7 +8,7 @@ Task 1: Data Cleaning and Preprocessing
  1) Identified missing values using .isnull() in Python by importing pandas and used dropna() to drop rows which contain null values
     or we can use fillna() to fill null values with appropreate like mean,mode.
  2) Used .drop_duplicates() to remove duplicate rows.
- 3) Cleaned categorical fields like Gender and Neighbourhood by applying consistent casing (e.g., uppercase for gender and title for nighbourhood).
+ 3) Cleaned categorical fields like Gender and Neighbourhood by applying consistent casing (e.g., uppercase for gender and title for neighbourhood).
  4) Converted date fields (ScheduledDay, AppointmentDay) into consistent dd-mm-yyyy format.
     and ensured datetime fields were correctly recognized as datetime64 in Pandas.
  5) Renamed all column headers to lowercase and replaced spaces with underscores for consistency and compatibility.
