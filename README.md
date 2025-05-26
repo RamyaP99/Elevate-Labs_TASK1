@@ -13,7 +13,7 @@ Task 1: Data Cleaning and Preprocessing
     and ensured datetime fields were correctly recognized as datetime64 in Pandas.
  5) Renamed all column headers to lowercase and replaced spaces with underscores for consistency and compatibility.
  6) Verified and enforced correct data types:
-    Age as integer
+    Age as integer, 
     ScheduledDay and AppointmentDay as datetime
 
 After cleaning, the dataset is well-structured, consistent, and ready for exploratory analysis.This foundation ensures more accurate modeling, better insights, and reduced risk of data quality issues.
