@@ -1,7 +1,7 @@
 # Elevate-Labs_TASK1
 Task 1: Data Cleaning and Preprocessing
 
- # Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
+ ### Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).
  For my Data analytics task i have taken "Medical Appointment No Shows" dataset from kaggle.
  my goal is to prepare the dataset by resolving inconsistencies, missing values, and formatting issues.
  so i have used following steps,
