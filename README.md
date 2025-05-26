@@ -6,7 +6,7 @@ Task 1: Data Cleaning and Preprocessing
  my goal is to prepare the dataset by resolving inconsistencies, missing values, and formatting issues.
  so i have used following steps,
  1) Identified missing values using .isnull() in Python by importing pandas and used dropna() to drop rows which contain null values
-    or we can use fillna() to fill null values with appropreate like mean,mode.
+    or we can use fillna() to fill null values with appropriates like mean,mode.
  2) Used .drop_duplicates() to remove duplicate rows.
  3) Cleaned categorical fields like Gender and Neighbourhood by applying consistent casing (e.g., uppercase for gender and title for neighbourhood).
  4) Converted date fields (ScheduledDay, AppointmentDay) into consistent dd-mm-yyyy format.
